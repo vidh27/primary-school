@@ -33,7 +33,8 @@ const list = [
       text: `Andhra Pradhesh → ~Hyderabad~
       Karnataka → ~Bengaluru~
       Kerala → ~Thiruvananthapuram~
-      Tamil Nadu → ~Chennai~
+      Tamil Nadu 
+
       Goa → ~Panaji~
       Maharashtra → ~Mumbai~`,
     },
